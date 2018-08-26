@@ -6,7 +6,7 @@ https://git-scm.com/
 Install Node.js
 https://nodejs.org/en/
 
-Clone the respositio to local directory.
+Clone the repository to local directory.
 
 Install node_modules
 
